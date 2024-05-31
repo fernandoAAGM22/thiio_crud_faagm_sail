@@ -1,0 +1,19 @@
+{
+    "manage_account": "Monitorear Cuenta",
+    "profile": "Perfil",
+    "api_tokens": "API Tokens",
+    "logout": "Cerrar Sesión",
+    "users": "Usuarios",
+    "users_title": "Control de usuarios",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "ok": "OK",
+    "add_user": "Nuevo usuario",
+    "new_user": "Agregar usuario",
+    "edit_user": "Editar usuario",
+    "id": "ID",
+    "name": "Nombre Completo",
+    "email": "Correo",
+    "password": "Contraseña",
+    "actions": "Acciones"
+}

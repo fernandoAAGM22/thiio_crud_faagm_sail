@@ -1,0 +1,19 @@
+{
+    "manage_account": "Manage Account",
+    "profile": "Profile",
+    "api_tokens": "API Tokens",
+    "logout": "Log Out",
+    "users": "Users",
+    "users_title": "User Management",
+    "cancel": "Cancel",
+    "save": "Save",
+    "ok": "OK",
+    "add_user": "New User",
+    "new_user": "Add User",
+    "edit_user": "Edit User",
+    "id": "ID",
+    "name": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "actions": "Actions"
+}
